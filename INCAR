@@ -1,0 +1,6 @@
+EDIFF = 1e-06
+EDIFFG = -0.02
+ISIF = 2
+ISMEAR = 0
+NPAR = 8
+NSW = 200
